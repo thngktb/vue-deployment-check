@@ -3,3 +3,9 @@ Integrating Vuefire and Vue Chartkick
 
 Demo: https://codesandbox.io/s/github/breadplop/test
 
+
+## Situation
+Current Build Status = `Fail`
+
+## Task: 
+Change build status to `pass`
