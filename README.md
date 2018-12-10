@@ -5,7 +5,7 @@ Demo: https://codesandbox.io/s/github/breadplop/test
 
 
 ## Situation
-Current Build Status = `Fail`
+Current Build Status = `failing`
 
 ## Task: 
-Change build status to `pass`
+Change build status to `passing`
