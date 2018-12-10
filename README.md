@@ -1,4 +1,4 @@
-# vuefire-analytics brenda [![Build Status brenda](https://travis-ci.com/breadplop/test.svg?branch=master)](https://travis-ci.com/breadplop/test)
+# vuefire-analytics brenda [![Build Status brenda](https://travis-ci.com/thngktb/vue-deployment-check.svg?branch=master)](https://travis-ci.com/thngktb/vue-deployment-check)
 
 Tags: `continuous test and deployment`, `travis-ci`
 
