@@ -3,7 +3,7 @@ import App from "./components/App.js";
 
 describe("Vue component tests", () => {
   it("An example test should pass.", () => {
-    expect(2).toEqual(2);
+    expect(2).toEqual(3);
   });
   it("The component should have a title property.", () => {
     const defaultData = App.data();
